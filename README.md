@@ -1,4 +1,9 @@
 # CKAN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CKANcoin/logos/main/ckan-logo-300x300.png" alt="CKAN Logo" width="220"/>
+</p>
+
 # 🛡️ CKAN Coin Official Security Repository
 
 This repository contains all official documentation related to the **CKAN Coin** project, deployed on the Binance Smart Chain. It includes legal, security, tokenomics, and roadmap files used for verification, exchange submission, and audit reviews.
