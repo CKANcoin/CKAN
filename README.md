@@ -20,6 +20,32 @@ This repository contains all official documentation related to the **CKAN Coin**
 - **Liquidity Lock:** ✅ Locked on Pinksale  
 - **Airdrop Contract:** `0xd4e296c6522b4c457219c497191a2c62fbeba76f`
 
+## 🔍 Clarification About BscScan Compiler Warning
+
+The warning message visible on our verified smart contract page at BscScan is **not caused by our code**, and **does not indicate any risk or vulnerability**.
+
+This automatic message refers to **low-severity informational flags** in the Solidity compiler version used: `v0.8.20`.
+
+⚠️ **Important facts:**
+- The contract is compiled with **Solidity 0.8.20** and **OpenZeppelin Contracts v5.1.0**, which are officially compatible and widely used.
+- The warning mentions known compiler-level items:
+  - `VerbatimInvalidDeduplication`
+  - `FullInlinerNonExpressionSplitArgumentEvaluationOrder`
+  - `MissingSideEffectsOnSelectorAccess`
+- These are **not security flaws** in our token or logic.
+
+📩 **Official response from BscScan Support (June 2025):**  
+> “These flags are automatically generated based on Solidity v0.8.20 itself… This does not indicate any critical risk in your deployed code.”  
+— BscScan Support (Nabilah J) – support@bscscan.com
+
+Our verified contract remains:
+- ✅ Fully functional
+- ✅ Ownership renounced
+- ✅ Token actively traded
+- ✅ Audited by scanner platforms and shows high safety scores
+
+For full transparency, you may contact us at **contact@warriorckan.com** or refer to the full support email exchange with BscScan.
+
 ---
 
 ## 📄 Core Documents (click to view)
