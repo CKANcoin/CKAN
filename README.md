@@ -63,6 +63,18 @@ For full transparency, you may contact us at **contact@warriorckan.com** or refe
 
 ---
 
+## 🗂️ Token List (for DEX Integration)
+
+CKAN Coin maintains an official **ERC20/BEP20 token list** in Uniswap/PancakeSwap-compatible JSON format.  
+This ensures CKAN can be recognized by wallets, explorers, and decentralized exchanges without requiring manual contract input.
+
+- **Token List (JSON):** [ckan-tokenlist.json](ckan-tokenlist.json)  
+- **Raw GitHub Link:** [https://raw.githubusercontent.com/CKANcoin/CKAN/main/ckan-tokenlist.json](https://raw.githubusercontent.com/CKANcoin/CKAN/main/ckan-tokenlist.json)
+
+PancakeSwap, wallets, and DEX aggregators can directly integrate this list for **CKAN Coin logo + symbol visibility**.
+
+---
+
 ## 📦 Repository Structure
 
 - All files are at root level for easy access by scanners and token reviewers.
@@ -95,4 +107,3 @@ For full transparency, you may contact us at **contact@warriorckan.com** or refe
 This repository was created to serve as the verified, on-chain, and off-chain reference point for **CKAN Coin** safety, lock structure, and ownership transparency.
 
 It is maintained directly by the project administrators and updated with all critical audit, legal, and airdrop-related files.
-
